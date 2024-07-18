@@ -1,4 +1,4 @@
-# Data Scientist
+# Neuroscientist
 
 ### Education
 Neuroscience, PhD
